@@ -40,3 +40,4 @@ rabbit.jump();//jumpは読み取れてないので、
 console.log(rabbit.birthDate.getDate());
 console.log(obj.birthDate.getDate());
 
+//done
